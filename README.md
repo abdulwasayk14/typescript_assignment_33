@@ -1,1 +1,1 @@
-# typescript_assignment_33
+# typescript_assignment_33_Ordinal_numbers
